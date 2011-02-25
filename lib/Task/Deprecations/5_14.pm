@@ -14,7 +14,7 @@ may no longer appear in future releases of perl 5.
 Installing this set of libraries (by installing Task::Deprecations::5_14 itself)
 will stop the "will be removed from the Perl core distribution" warnings.
 
-=pkg Devel::DProf
+=pkg Devel::DProf 20110225.01
 
 =cut
 
